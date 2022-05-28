@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+h3{
+    color:white;
+}
+.gameheader{
+    position: relative;
+    left: 190px;
+}
+.gameplay{
+    position: relative;
+    top: 10px;
+    left: 155px;
+}
+.game{
+    position: relative;
+    left: 150px;
+}
+.hopp{
+    position: relative;
+    left: 150px;
+}
+footer{
+    color: blueviolet;
+}
